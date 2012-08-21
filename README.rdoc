@@ -147,6 +147,12 @@ Fetch recent user activity
 
 * Communication token gets rejected after some time. This timeframe is always different. Additional research didnt show any results.
 
+= Testing
+
+{<img src="https://secure.travis-ci.org/sosedoff/grooveshark.png" />}[http://travis-ci.org/sosedoff/grooveshark]
+
+  $ rake test
+
 = TODO
 
 * Testing
